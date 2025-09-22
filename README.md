@@ -1,5 +1,9 @@
-# geus_givecar
+# geus_givecar By. PRESTRIGEUS
+
+<img width="2560" height="1440" alt="preview" src="https://github.com/user-attachments/assets/610e0604-01be-4506-b180-b475eb52c56b" />
+
 🚗 geus_givecar — ESX vehicle ownership (admin-only) con ox_lib
+<img width="2560" height="1440" alt="preview" src="https://github.com/user-attachments/assets/610e0604-01be-4506-b180-b475eb52c56b" />
 
 geus_givecar permite registrar vehículos como “owned” en ESX, para ti o para otro jugador por ID de servidor, con un menú limpio en ox_lib y seguridad reforzada del lado del servidor (solo administradores).
 Ideal para staffs que quieren gestionar propiedades de vehículos sin complicarse con comandos crípticos.
