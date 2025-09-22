@@ -1,4 +1,4 @@
-# geus_givecar By. PRESTRIGEUS
+# geus_givecar By. PRESTIGEUS
 
 <img width="2560" height="1440" alt="preview" src="https://github.com/user-attachments/assets/610e0604-01be-4506-b180-b475eb52c56b" />
 
