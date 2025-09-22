@@ -1,6 +1,6 @@
 # geus_givecar By. PRESTIGEUS
 
-<img width="2560" height="1440" alt="preview" src="https://github.com/user-attachments/assets/610e0604-01be-4506-b180-b475eb52c56b" />
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/610e0604-01be-4506-b180-b475eb52c56b" />
 
 🚗 geus_givecar — ESX vehicle ownership (admin-only) con ox_lib
 
