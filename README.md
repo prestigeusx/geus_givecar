@@ -1,4 +1,4 @@
-# geus_Carmenu
+# geus_givecar
 🚗 geus_givecar — ESX vehicle ownership (admin-only) con ox_lib
 
 geus_givecar permite registrar vehículos como “owned” en ESX, para ti o para otro jugador por ID de servidor, con un menú limpio en ox_lib y seguridad reforzada del lado del servidor (solo administradores).
